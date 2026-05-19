@@ -5,7 +5,7 @@ from telegram.ext import Application, CommandHandler, MessageHandler, filters, C
 
 # ===== SOZLAMALAR =====
 TELEGRAM_TOKEN = "8691786506:AAFusRN4LyIyNx3EKxnEAQJTojmR5bTCKHk"
-GEMINI_API_KEY = "AIzaSyDLxQaDhR9dOqXqOIXJXo7pUS1-1JYrGlk"
+GEMINI_API_KEY = "AIzaSyCRbSIcSn1zRKdy_tPwEkxUbzddHIVP7UU"
 
 # Gemini sozlash
 genai.configure(api_key=GEMINI_API_KEY)
